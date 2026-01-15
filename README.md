@@ -1,1 +1,1 @@
-# Student-management-system
+Smart Traffic Risk Prediction System
